@@ -1,0 +1,15 @@
+Simulation started: Sun Aug 17 20:20:06 2025
+
+Simulation Duration: 98.0371 seconds
+
+Vehicle Statistics:
+  Total Vehicles Entered: 30
+  Total Vehicles Completed: 30
+  Completion Rate: 100.0%
+
+Traffic Flow Statistics:
+  Average Travel Time: 98.37 seconds
+  Traffic Flow Rate: 0.31 vehicles/second
+  Maximum Traffic Density: 30.00 vehicles
+  Ratio To Objective time: 1.345
+  (Total actual: 2951.10s, Total optimal: 2193.38s)
